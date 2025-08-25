@@ -31,8 +31,9 @@ It uses **speech recognition, APIs, and automation techniques** to make daily ta
 ## 🚀 Installation
 
 1. Clone this repository:
-2. download modules like( google generative ai, pyttsx3, speechrecognition,pyaudio) or simply run pip install r requirements.txt
-3. peak or type commands like:
+2. run the " main.py" file
+3. download modules like( google generative ai, pyttsx3, speechrecognition,pyaudio) or simply run pip install r requirements.txt
+4. peak or type commands like:
 
 "open google"
 
@@ -46,6 +47,6 @@ It uses **speech recognition, APIs, and automation techniques** to make daily ta
 ## For API  keys visit
 here
 https://console.cloud.google.com/apis/dashboard?project=hallowed-tea-465315-u9(gemini api key)
+<br>
 https://www.thenewsapi.com/ (news api key)
-   git clone https://github.com/your-username/virtual-assistant.git
-   cd virtual-assistant
+   
