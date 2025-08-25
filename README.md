@@ -46,7 +46,7 @@ It uses **speech recognition, APIs, and automation techniques** to make daily ta
 
 ## For API  keys visit
 here
-https://console.cloud.google.com/apis/dashboard?project=hallowed-tea-465315-u9(gemini api key)
+https://console.cloud.google.com/apis/dashboard?project=hallowed-tea-465315-u9  (gemini api key)
 <br>
 and
 <br>
