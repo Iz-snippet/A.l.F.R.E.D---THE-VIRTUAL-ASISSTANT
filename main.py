@@ -17,13 +17,13 @@ music = {
 
 recognizer=sr.Recognizer()
 engine=pyttsx3.init()
-newsapi="vj90n2lSHsqFSObvTObFTQZbQCgnJYFvIKMDomvd"
+newsapi="enter your API key here"
 def speak(text):
     engine.say(text)
     engine.runAndWait()
 def aiProcess(command):
     # Configure Gemini API key 
-    genai.configure(api_key="AIzaSyBfirPB0QU9aMsg-cp_vTV7Pe23hCe3ZsU")
+    genai.configure(api_key="enter your API key")
 
     # Pick a Gemini model
     model = genai.GenerativeModel("gemini-1.5-flash")
@@ -134,4 +134,5 @@ if __name__ == "__main__":
             processCommand(command)
     except Exception as e:
         print("Error; {0}".format(e))
+
 
